@@ -4,6 +4,7 @@ body{
   background-color: black;
   text-align: center;
 }
+
 a.btn {
   display: inline-block;
   padding: 10px 20px;
@@ -12,7 +13,13 @@ a.btn {
   text-decoration: none;
   border-radius: 5px;
   text-align: center;
+  transition: background-color 0.3s ease; /* Para uma transição suave */
 }
+
+a.btn:hover {
+  background-color: #3399FF; /* Tom mais claro de azul */
+}
+
 .pequeno{
   font-size: smaller;
 }
