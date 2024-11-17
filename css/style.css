@@ -7,3 +7,6 @@ body{
 button{
   font-size: larger;
 }
+.pequeno{
+  font-size: smaller;
+}
