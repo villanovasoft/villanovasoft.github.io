@@ -5,3 +5,4 @@
 - Footer added
 - CNAME record successfully added to configure the custom domain
 - Attempt to fix the CSS path
+- Fixed the button that was out of W3C standards. It is now made with CSS.
