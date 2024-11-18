@@ -1,3 +1,4 @@
+@charset "utf-8";
 /*
 Copyright (c) 2024 Villanovasoft
 
@@ -8,8 +9,6 @@ This file includes code reused from:
 - VeproGames, licensed under the MIT License.
 - Original code for Montserrat font-face definitions, adapted for use in this project.
 */
-
-@charset "utf-8";
 
 @font-face {
     font-family: "Montserrat";
