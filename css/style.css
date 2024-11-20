@@ -34,6 +34,11 @@ This file includes code reused from:
         url("../font/montserrat/Montserrat-Black.ttf") format("ttf");
 }
 
+html{
+    
+  position: relative;
+}
+
 body{
   font-family: Montserrat, sans-serif;
   color: white;
@@ -49,6 +54,8 @@ hr {
     border: none;
 }
 
-.pequeno{
+footer {
   font-size: smaller;
+  position: absolute;
+  bottom: 0;
 }
