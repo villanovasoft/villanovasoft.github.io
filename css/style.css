@@ -41,6 +41,11 @@ body{
   text-align: center;
 }
 
+hr {
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
 .pequeno{
   font-size: smaller;
 }
