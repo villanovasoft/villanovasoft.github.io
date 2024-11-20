@@ -34,8 +34,9 @@ This file includes code reused from:
         url("../font/montserrat/Montserrat-Black.ttf") format("ttf");
 }
 
-html{
-    
+html, body {  
+  height: 100%;
+  margin: 0;
   position: relative;
 }
 
@@ -58,4 +59,7 @@ footer {
   font-size: smaller;
   position: absolute;
   bottom: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
 }
