@@ -1,4 +1,4 @@
-# Villanovasoft's homepage
-Official homepage of Villanovasoft, a solo novice developer.<br>
-Villanovasoft is just a pseudonym; I'm not a company.<br>
-The language of the page can be toggled between English and Brazilian Portuguese.
+# Página de Villanovasoft
+Página oficial da Villanovasoft, um desenvolvedor iniciante solo.<br>
+Villanovasoft é apenas um pseudônimo; eu não sou uma empresa.<br>
+O idioma da página pode é português brasileiro.
