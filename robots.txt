@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /private/
 Sitemap: https://villanovasoft.github.io/sitemap.xml
